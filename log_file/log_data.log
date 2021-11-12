@@ -1,0 +1,78 @@
+
+2021-11-12 <> 08:19:52:New Logger instance created !
+
+2021-11-12 <> 08:19:52 : INFO : Execution started Successfully !
+
+2021-11-12 <> 08:31:01:New Logger instance created !
+
+2021-11-12 <> 08:31:01 : INFO : Execution started Successfully !
+
+2021-11-12 <> 08:31:59:New Logger instance created !
+
+2021-11-12 <> 08:31:59 : INFO : Execution started Successfully !
+
+2021-11-12 <> 08:50:58:New Logger instance created !
+
+2021-11-12 <> 08:50:58 : INFO : Execution started Successfully !
+
+2021-11-12 <> 08:52:07:New Logger instance created !
+
+2021-11-12 <> 08:52:07 : INFO : Execution started Successfully !
+
+2021-11-12 <> 08:52:17:New Logger instance created !
+
+2021-11-12 <> 08:52:17 : INFO : Execution started Successfully !
+2021-11-12 <> 08:53:09 : INFO : Successfully retrieved information from the user... !
+
+2021-11-12 <> 08:54:02:New Logger instance created !
+
+2021-11-12 <> 08:54:02 : INFO : Execution started Successfully !
+2021-11-12 <> 09:00:20 : INFO : Successfully retrieved information from the user... !
+2021-11-12 <> 09:00:31 : INFO : Database connection established..! !
+2021-11-12 <> 09:00:31 : INFO : Database Created !
+2021-11-12 <> 09:00:31 : INFO : Collection Created!
+2021-11-12 <> 09:00:32 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-12 <> 09:00:32 : INFO : Database connection closed Successfully !!
+2021-11-12 <> 09:00:32 : INFO : Prediction done Successfully !
+
+2021-11-12 <> 09:01:25:New Logger instance created !
+
+2021-11-12 <> 09:01:25 : INFO : Execution started Successfully !
+2021-11-12 <> 09:02:45 : INFO : Return from the Predict Route!!
+2021-11-12 <> 09:03:10 : INFO : Successfully retrieved information from the user... !
+2021-11-12 <> 09:03:49 : INFO : Return from the Predict Route!!
+2021-11-12 <> 09:04:17 : INFO : Successfully retrieved information from the user... !
+2021-11-12 <> 09:04:32 : INFO : Database connection established..! !
+2021-11-12 <> 09:04:32 : INFO : Database Created !
+2021-11-12 <> 09:04:32 : INFO : Collection Created!
+2021-11-12 <> 09:04:33 : INFO : Data Inserted in the Collection Successfully !!
+2021-11-12 <> 09:04:33 : INFO : Database connection closed Successfully !!
+2021-11-12 <> 09:04:33 : INFO : Prediction done Successfully !
+2021-11-12 <> 09:04:54 : INFO : Database connection established..! !
+2021-11-12 <> 09:04:54 : INFO : Retriviwed all data from Collection user_data !
+2021-11-12 <> 09:04:55 : INFO : Closing the Connection !
+2021-11-12 <> 09:04:55 : INFO : Rendering tamplate <database.html> with all Data !
+2021-11-12 <> 09:11:21 : INFO : Database connection established..! !
+2021-11-12 <> 09:11:22 : INFO : Retriviwed all data from Collection user_data !
+2021-11-12 <> 09:11:22 : INFO : Closing the Connection !
+2021-11-12 <> 09:11:22 : INFO : Rendering tamplate <database.html> with all Data !
+
+2021-11-12 <> 09:19:25:New Logger instance created !
+
+2021-11-12 <> 09:19:25 : INFO : Execution started Successfully !
+
+2021-11-12 <> 09:31:49:New Logger instance created !
+
+2021-11-12 <> 09:31:50 : INFO : Execution started Successfully !
+
+2021-11-12 <> 09:32:19:New Logger instance created !
+
+2021-11-12 <> 09:32:19 : INFO : Execution started Successfully !
+
+2021-11-12 <> 10:21:56:New Logger instance created !
+
+2021-11-12 <> 10:21:56 : INFO : Execution started Successfully !
+
+2021-11-12 <> 10:24:34:New Logger instance created !
+
+2021-11-12 <> 10:24:34 : INFO : Execution started Successfully !
