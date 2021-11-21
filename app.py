@@ -6,6 +6,10 @@ import numpy as np
 import pymongo
 import ssl
 
+# configuring logging method
+model=joblib.load(open("model_rf.pkl","rb"))
+app = Flask(__name__)
+
 from sklearn.preprocessing import StandardScaler
 scaler = StandardScaler()
 data=pd.read_csv("data/incomeData.csv")
@@ -28,10 +32,6 @@ X_scaled=scaler.fit_transform(X)
 log = Logs("log_file/log_data.log")
 log.addLog("INFO", "Execution started Successfully !")
 
-# configuring logging method
-model=joblib.load(open("model_rf.pkl","rb"))
-
-app = Flask(__name__)
 
 @app.route('/')
 def index():
