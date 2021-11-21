@@ -21,7 +21,7 @@ To build a classification methodology to determine whether a person makes over 5
 We will predict whether the person's income is above 50K or  below 50k using various features like age, education, and occupation. 
 The application is a web app which is developed in Flask Framework.
 
-Read more about it at ![Blogpost.](https://medium.com/@shubhammourya2014/census-income-prediction-f08ee9e4720d)
+Read more about it at [Blogpost.](https://medium.com/@shubhammourya2014/census-income-prediction-f08ee9e4720d)
 
 ## Dataset  
 The dataset we are going to use is the Adult census income dataset from Kaggle which contains about 32561 rows and 15 features that can be downloaded here
