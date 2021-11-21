@@ -14,19 +14,17 @@ To build a classification methodology to determine whether a person makes over 5
 * Bug/Feature Request
 * Future scope of project
 ## Demo
+![Income Predictor](https://user-images.githubusercontent.com/47842305/142749630-a2a1516c-7d72-4bb7-80e9-6122efd31b92.gif)
 
 
 ## Overview  📜
 We will predict whether the person's income is above 50K or  below 50k using various features like age, education, and occupation. 
 The application is a web app which is developed in Flask Framework.
 
-Read more about it at Blogpost.
+Read more about it at ![Blogpost.](https://medium.com/@shubhammourya2014/census-income-prediction-f08ee9e4720d)
 
 ## Dataset  
-Dataset is available in Kaggle by CarDheko Company.
-This dataset contains information about used cars.
-This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
-
+The dataset we are going to use is the Adult census income dataset from Kaggle which contains about 32561 rows and 15 features that can be downloaded here
 Dataset link: https://www.kaggle.com/uciml/adult-census-income
 ## Installations  🗄️
 The Code is written in Python 3.8 If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
