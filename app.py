@@ -29,11 +29,10 @@ log = Logs("log_file/log_data.log")
 log.addLog("INFO", "Execution started Successfully !")
 
 # configuring logging method
-pickle_in = open("model_rf.pkl","rb")
-model=joblib.load(pickle_in)
+model=joblib.load(open("model_rf.pkl","rb"))
 
 app = Flask(__name__)
-# route for main page
+
 @app.route('/')
 def index():
     return render_template("index.html")
