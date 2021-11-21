@@ -14,7 +14,7 @@ To build a classification methodology to determine whether a person makes over 5
 * Bug/Feature Request
 * Future scope of project
 ## Demo
-![Income Predictor](https://user-images.githubusercontent.com/47842305/142749630-a2a1516c-7d72-4bb7-80e9-6122efd31b92.gif)
+![Income Predictor](![Income Predictor](https://user-images.githubusercontent.com/47842305/142749840-4bc29388-35b4-4e97-acbf-b0e71a02b94a.gif))
 
 
 ## Overview  📜
