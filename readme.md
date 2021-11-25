@@ -9,10 +9,10 @@ To build a classification methodology to determineto whether a person’s income
 * Installation
 * Deployment
 * Documentation
-* Directory Tree
 * Technology Used
-* Bug/Feature Request
-* Future scope of project
+* Motivation
+* Conclusion
+* Contribution
 ## Demo
 
 ![Income Predictor](https://user-images.githubusercontent.com/47842305/142749840-4bc29388-35b4-4e97-acbf-b0e71a02b94a.gif)
@@ -27,15 +27,43 @@ The application is a web app which is developed in Flask Framework.
 ## Dataset  
 The dataset we are going to use is the Adult census income dataset from Kaggle which contains about 32561 rows and 15 features that can be downloaded here
 >Dataset link: https://www.kaggle.com/uciml/adult-census-income
+
 ## Installations  🗄️
 The Code is written in Python 3.8 If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
-AWS Deployment Link: http://ec2-18-219-219-167.us-east-2.compute.amazonaws.com:8080/
+
 
 First you need to create a virtual conda enviornment.
 
 ```bash
   conda create -n myenv python=3.6
   pip install -r requirements.txt
+```
+
+## Deployment
+
+> AWS Deployment Link: http://ec2-18-219-219-167.us-east-2.compute.amazonaws.com:8080/
+```javascript
+├── data
+│   ├──incomedata.csv
+├── log_file
+│   ├── log_data.log
+│   ├── logger.py
+├── static
+│   ├── image
+│   ├── ├── img.jpg
+├── src
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   ├── index.html
+├── Money_Laundering_EDA.ipynb
+├── XGB_Classifier.pkl
+├── Procfile
+├── data_preprocessing_.csv
+├── app.py
+├── requirements.txt
+├── input_file.csv
+├── README.md
+
 ```
 ## Technologies Used
 
