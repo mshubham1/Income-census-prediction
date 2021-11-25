@@ -3,7 +3,6 @@
 
 To build a classification methodology to determineto whether a person’s income is above 50k or below 50k using various features like age, education, and occupation. 
 ## Table Content ✏️
-* Demo
 * Overview
 * Dataset
 * Installation
@@ -13,9 +12,7 @@ To build a classification methodology to determineto whether a person’s income
 * Motivation
 * Conclusion
 * Contribution
-## Demo
 
-![Income Predictor](https://user-images.githubusercontent.com/47842305/142749840-4bc29388-35b4-4e97-acbf-b0e71a02b94a.gif)
 
 
 ## Overview  📜
@@ -38,10 +35,13 @@ First you need to create a virtual conda enviornment.
   conda create -n myenv python=3.6
   pip install -r requirements.txt
 ```
-
 ## Deployment
-
 > AWS Deployment Link: http://ec2-18-219-219-167.us-east-2.compute.amazonaws.com:8080/
+![Income Predictor](https://user-images.githubusercontent.com/47842305/142749840-4bc29388-35b4-4e97-acbf-b0e71a02b94a.gif)
+
+## Directory
+
+
 ```javascript
 ├── data
 │   ├──incomedata.csv
