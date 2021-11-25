@@ -37,6 +37,7 @@ First you need to create a virtual conda enviornment.
 ```
 ## Deployment
 > AWS Deployment Link: http://ec2-18-219-219-167.us-east-2.compute.amazonaws.com:8080/
+
 ![Income Predictor](https://user-images.githubusercontent.com/47842305/142749840-4bc29388-35b4-4e97-acbf-b0e71a02b94a.gif)
 
 ## Directory
