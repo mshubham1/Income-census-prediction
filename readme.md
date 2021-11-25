@@ -14,7 +14,8 @@ To build a classification methodology to determineto whether a person’s income
 * Bug/Feature Request
 * Future scope of project
 ## Demo
-![Income Predictor](![Income Predictor](https://user-images.githubusercontent.com/47842305/142749840-4bc29388-35b4-4e97-acbf-b0e71a02b94a.gif))
+
+![Income Predictor](https://user-images.githubusercontent.com/47842305/142749840-4bc29388-35b4-4e97-acbf-b0e71a02b94a.gif)
 
 
 ## Overview  📜
@@ -28,7 +29,7 @@ The dataset we are going to use is the Adult census income dataset from Kaggle w
 >Dataset link: https://www.kaggle.com/uciml/adult-census-income
 ## Installations  🗄️
 The Code is written in Python 3.8 If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
-
+AWS Deployment Link: http://ec2-18-219-219-167.us-east-2.compute.amazonaws.com:8080/
 
 First you need to create a virtual conda enviornment.
 
