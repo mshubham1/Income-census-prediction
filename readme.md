@@ -51,17 +51,17 @@ First you need to create a virtual conda enviornment.
 ├── static
 │   ├── image
 │   ├── ├── img.jpg
-├── src
-│   ├── data_preprocessing.py
-│   ├── model_training.py
+├── templates
+│   ├── database.html
 │   ├── index.html
 ├── Money_Laundering_EDA.ipynb
 ├── XGB_Classifier.pkl
 ├── Procfile
-├── data_preprocessing_.csv
+├── EDA.ipynb
 ├── app.py
+├── model_rf.pkl
 ├── requirements.txt
-├── input_file.csv
+├── runtime.txt
 ├── README.md
 
 ```
