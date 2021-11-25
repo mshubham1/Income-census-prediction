@@ -118,9 +118,12 @@ def predict():
         log.addLog("INFO", "Prediction done Successfully !")
 
         if result == 1:
-            return render_template('index.html', prediction_text='{}'.format("Income is more than 50K")
+            output = "Income is more than 50K"
         elif result == 0:
-            return render_template('index.html', prediction_text='{}'.format("Income is more than 50K")
+            output = "Income is less than 50K"
+        
+        return render_template('index.html', prediction_text='{}'.format(output))
+
        
 
     else:
