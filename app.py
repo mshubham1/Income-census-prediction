@@ -118,11 +118,10 @@ def predict():
         log.addLog("INFO", "Prediction done Successfully !")
 
         if result == 1:
-            output = "Income is more than 50K"
+            return render_template('index.html', prediction_text='{}'.format("Income is more than 50K")
         elif result == 0:
-            output = "Income is less than 50K"
-        
-        return render_template('index.html', prediction_text='{}'.format(output))
+            return render_template('index.html', prediction_text='{}'.format("Income is more than 50K")
+       
 
     else:
         log.addLog("INFO", "Return from the Predict Route!!")
